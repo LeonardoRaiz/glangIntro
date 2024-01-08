@@ -33,7 +33,7 @@ func main() {
 			fmt.Println("")
 			Exercicios.Exercicio4()
 		default:
-			fmt.Println("Número invalido")
+			fmt.Println("Número invalido - Tente Novamente")
 		}
 
 	}
